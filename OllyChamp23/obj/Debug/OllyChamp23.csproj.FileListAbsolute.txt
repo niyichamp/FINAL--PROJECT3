@@ -1,0 +1,2 @@
+C:\Users\oolas\Desktop\OllyChamp23\OllyChamp23\obj\Debug\OllyChamp23.csprojAssemblyReference.cache
+C:\Users\oolas\Desktop\OllyChamp23\OllyChamp23\obj\Debug\OllyChamp23.csproj.CoreCompileInputs.cache
